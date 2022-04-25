@@ -1,0 +1,185 @@
+{
+  "profile": {
+    "fullname": "Shivang Saxena",
+    "about": "Hi, I am Full Stack developers specializing in building , integrating , testing and supporting applications from scratch for web. Responsibilities include setting up of database and web server developing and deploying web apps ,hybrid as well as native apps. Hands on experience in designing architecture of products",
+    "email": "mailto:shivang5198@gmail.com",
+    "resume": "https://drive.google.com/file/d/1OlIzfENz6wYFOLUlxi7Y6nX9Pra0rjy-/view?usp=sharing",
+    "theme": "light"
+  },
+  "social": [
+    {
+      "name": "Twitter",
+      "icon": "fas fa-hashtag",
+      "url": "https://twitter.com/shivang5198"
+    },
+    {
+      "name": "Github",
+      "icon": "fab fa-github-alt",
+      "url": "https://github.com/saxenashivang"
+    },
+    {
+      "name": "Linkedin",
+      "icon": "fas fa-link",
+      "url": "https://www.linkedin.com/in/shivangsaxena/"
+    },
+    {
+      "name": "Instagram",
+      "icon": "fas fa-camera-retro",
+      "url": "https://www.instagram.com/shivang_saxena/"
+    }
+  ],
+  "tools": {
+    "frontend": [
+      {
+        "tool": "javascript",
+        "icon": "devicon-javascript-plain colored"
+      },
+      {
+        "tool": "react",
+        "icon": "devicon-react-original colored"
+      },
+      {
+        "tool": "redux",
+        "icon": "devicon-redux-original colored"
+      },
+      {
+        "tool": "nextJS",
+        "icon": "devicon-nextjs-plain-wordmark"
+      },
+      {
+        "tool": "graphQL",
+        "icon": "devicon-graphql-plain colored"
+      },
+      {
+        "tool": "typescript",
+        "icon": "devicon-typescript-plain colored"
+      },
+      {
+        "tool": "tailwind",
+        "icon": "devicon-tailwindcss-original-wordmark"
+      },
+      {
+        "tool": "materialUI",
+        "icon": "devicon-materialui-plain colored"
+      },
+      {
+        "tool": "html5",
+        "icon": "devicon-html5-plain colored"
+      },
+      {
+        "tool": "css3",
+        "icon": "devicon-css3-plain colored"
+      }
+    ],
+    "backend": [
+      {
+        "tool": "Go",
+        "icon": "devicon-go-plain"
+      },
+      {
+        "tool": "gRPC",
+        "icon": "devicon-google-plain colored"
+      },
+      {
+        "tool": "Nest JS",
+        "icon": "devicon-nestjs-plain colored"
+      },
+      {
+        "tool": "nodejs",
+        "icon": "devicon-nodejs-plain colored"
+      },
+      {
+        "tool": "express",
+        "icon": "devicon-express-original"
+      },
+      {
+        "tool": "kafka",
+        "icon": "devicon-apachekafka-original colored"
+      },
+      {
+        "tool": "mysql",
+        "icon": "devicon-mysql-plain colored"
+      },
+      {
+        "tool": "mongoDB",
+        "icon": "devicon-mongodb-plain colored"
+      },
+      {
+        "tool": "firebase",
+        "icon": "devicon-firebase-plain colored"
+      },
+      {
+        "tool": "GCP",
+        "icon": "devicon-googlecloud-plain colored"
+      },
+      {
+        "tool": "AWS",
+        "icon": "devicon-amazonwebservices-original colored"
+      },{
+        "tool": "digitalocean",
+        "icon": "devicon-digitalocean-plain colored"
+      },
+      {
+        "tool": "redis",
+        "icon": "devicon-redis-plain colored"
+      },
+      {
+        "tool": "C++",
+        "icon": "devicon-cplusplus-plain colored"
+      }
+    ],
+    "devtools": [
+      {
+        "tool": "Docker",
+        "icon": "devicon-docker-plain colored"
+      },
+      {
+        "tool": "Kubernates",
+        "icon": "devicon-kubernetes-plain colored"
+      },
+      {
+        "tool": "git",
+        "icon": "devicon-git-plain colored"
+      },
+      {
+        "tool": "github",
+        "icon": "devicon-github-plain"
+      },
+      {
+        "tool": "npm",
+        "icon": "devicon-npm-original-wordmark colored"
+      },
+      {
+        "tool": "vscode",
+        "icon": "devicon-visualstudio-plain colored"
+      },
+      {
+        "tool": "devtools",
+        "icon": "devicon-chrome-plain colored"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Shopdefi",
+      "image": "shopdefi.png",
+      "live": "https://shopdefi.app/",
+      "source": "#",
+      "tech": ["NestJS","NextJS","firebase","blockchain","web3","materialUI","GCP"]
+    },
+    {
+      "name": "Mattersuite",
+      "image": "mattersuite.png",
+      "live": "https://app.mattersuite.com/account/login",
+      "source": "#",
+      "tech": ["Go","microservice","postgresql","gRPC","protoBuff","react","redis","materialUI","GCP"]
+    },
+    {
+      "name": "ChatBox",
+      "image": "chatbox.png",
+      "live": "https://newchatboxapp.herokuapp.com/",
+      "source": "https://github.com/shivang-saxena/chatbox",
+      "tech": ["php","bootstrap","mysql"]
+    }
+  ]
+}
