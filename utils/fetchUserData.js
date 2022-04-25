@@ -4,6 +4,7 @@ export const fetchUserData = async () => {
     headers: {
       'Content-Type': 'application/json',
       Accept: 'application/json',
+      origin: '*',
     },
   });
   const data = await response.json();
